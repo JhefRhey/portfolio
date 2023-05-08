@@ -547,6 +547,11 @@ body {
     margin-bottom: 5px;
     transition: all 0.3s ease-in-out;
   }
+  .img-fluid1 {
+    height: 250px;
+    width: 400px;
+    padding: 10px;
+  }
   
   .portfolio #portfolio-flters li:hover,
   .portfolio #portfolio-flters li.filter-active {
